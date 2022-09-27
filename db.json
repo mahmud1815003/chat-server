@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "email": "mahmud1815003@stud.kuet.ac.bd",
+      "password": "$2a$10$p0AEZ8afotP/48qsGCsHVu86kCikCXVM5jRsvDQRO9xRNiAGbYL.6",
+      "name": "Brinty",
+      "id": 1
+    },
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+      "name": "Sumit",
+      "id": 2
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$3S6MK6qpW/HH0YyrD3jv2O4Br0.KiYky3mmArKCodT86ca2SzLwFO",
+      "name": "test1",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$QA2Difd7sU257Zesb6xp3edhkHXDnHsk2peicv882V54pGSlrPNmW",
+      "name": "text2",
+      "id": 4
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$dtLs2PNEH5y9T6lwmjVFWuCNAnCVzWeH5pU4VeIxIQWZ/.gcyaL/u",
+      "name": "test3",
+      "id": 5
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "sumit@learnwithsumit.com-mahmud1815003@stud.kuet.ac.bd",
+      "users": [
+        {
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit",
+          "id": 2
+        },
+        {
+          "email": "mahmud1815003@stud.kuet.ac.bd",
+          "name": "Brinty",
+          "id": 1
+        }
+      ],
+      "message": "amio valo asi",
+      "timestamp": 1664295930514,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "hlw",
+      "timestamp": 1664295118987,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1664295455226,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "bro",
+      "timestamp": 1664295762083,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1664295892282,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "hello",
+      "timestamp": 1664295898234,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "message": "bro",
+      "timestamp": 1664295903362,
+      "id": 6
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "hello",
+      "timestamp": 1664295908490,
+      "id": 7
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "message": "kemon asen",
+      "timestamp": 1664295914178,
+      "id": 8
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "valo asi",
+      "timestamp": 1664295918690,
+      "id": 9
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "receiver": {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$8a4WlUAp6ncxBTsTbErV.umsYe/ynJU1lsz4fKu2u0fN/XccHqzoO",
+        "name": "Sumit",
+        "id": 2
+      },
+      "message": "apni kemon asen",
+      "timestamp": 1664295924466,
+      "id": 10
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mahmud1815003@stud.kuet.ac.bd",
+        "name": "Brinty",
+        "id": 1
+      },
+      "message": "amio valo asi",
+      "timestamp": 1664295930514,
+      "id": 11
+    }
+  ]
+}
